@@ -60,7 +60,7 @@ Kami adalah bagian dari tim MSIB Mandiri pada learning path **Artificial Intelli
 
 ---
 
-## Dokumentasi Lainya
+## 📸 Dokumentasi Lainya
 
 > https://huggingface.co/spaces/BryanEugene/Luminara_Ai_Chatbot
 
