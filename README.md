@@ -37,8 +37,8 @@ Kami adalah bagian dari tim MSIB Mandiri pada learning path **Artificial Intelli
 
 ### 🤝 Kolaborasi:
 
-- Tim Web Dev – Frontend UI & Hosting
-- Tim Mobile – Flutter App & Chatbot Embedding
+- Tim Web Dev 
+- Tim Mobile 
 
 ---
 
@@ -55,6 +55,14 @@ Kami adalah bagian dari tim MSIB Mandiri pada learning path **Artificial Intelli
 ## 📸 Tampilan Aplikasi
 
 > https://drive.google.com/drive/folders/1VYyi45ScrZTEd9U4wOp36oNihtT6HV8Z?usp=sharing
+
+---
+
+---
+
+## Dokumentasi Lainya
+
+> https://huggingface.co/spaces/BryanEugene/Luminara_Ai_Chatbot
 
 ---
 
