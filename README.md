@@ -1,4 +1,4 @@
-# 🌟 LUMINARA: Chatbot Informasi Wisata Religi Medan 🌟
+# 🌟 LUMINARA: Chatbot Informasi Wisata Religi Kota Medan 🌟
 
 Selamat datang di repositori proyek **Tim AI LUMINARA**, chatbot berbasis AI yang kami kembangkan untuk memberikan informasi seputar **tempat wisata religi di Kota Medan**. Proyek ini merupakan hasil kolaborasi tim AI kami bersama tim pengembang web dan mobile, dengan tujuan menciptakan solusi informasi yang **cepat, akurat, dan mudah diakses** oleh masyarakat.
 
